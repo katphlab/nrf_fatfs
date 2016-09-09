@@ -2,7 +2,6 @@
 #include "string.h"
 #include "ff.h"
 #include "diskio.h"
-#include "myfun.h"
 
 FATFS FatFs;        /* FatFs work area needed for each volume */
 FIL Fil;            /* File object needed for each open file */
