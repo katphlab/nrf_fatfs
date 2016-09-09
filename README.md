@@ -1,5 +1,6 @@
 # nrf_fatfs
-FATFS Library for NRF devices using elm-chan<br>
+FATFS Library for NRF devices  using elm-chan<br>
+Based on SDK11<br>
 All credit goes to [ELM-chan](http://elm-chan.org/fsw/ff/00index_e.html)
 
 ## Setting up:
